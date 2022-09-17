@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d6be7a2.css",
-    "main.js": "/static/js/main.fdbc6158.js",
-    "static/js/787.f5bf77c0.chunk.js": "/static/js/787.f5bf77c0.chunk.js",
-    "index.html": "/index.html",
-    "main.1d6be7a2.css.map": "/static/css/main.1d6be7a2.css.map",
-    "main.fdbc6158.js.map": "/static/js/main.fdbc6158.js.map",
-    "787.f5bf77c0.chunk.js.map": "/static/js/787.f5bf77c0.chunk.js.map"
+    "main.css": "/gizmo-quotes/static/css/main.1d6be7a2.css",
+    "main.js": "/gizmo-quotes/static/js/main.80525058.js",
+    "static/js/787.f5bf77c0.chunk.js": "/gizmo-quotes/static/js/787.f5bf77c0.chunk.js",
+    "index.html": "/gizmo-quotes/index.html",
+    "main.1d6be7a2.css.map": "/gizmo-quotes/static/css/main.1d6be7a2.css.map",
+    "main.80525058.js.map": "/gizmo-quotes/static/js/main.80525058.js.map",
+    "787.f5bf77c0.chunk.js.map": "/gizmo-quotes/static/js/787.f5bf77c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d6be7a2.css",
-    "static/js/main.fdbc6158.js"
+    "static/js/main.80525058.js"
   ]
 }
