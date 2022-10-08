@@ -9,6 +9,7 @@ const quotes: [string|React.ReactElement, string][] = [
     </span>,
     'like the fourth session or something'
   ],
+  ['Th-th-th-tha-th-th-than-than-thank y-y-y-you, y-y-y-your M-m-m-m-m-maje-je-je-jesty.', 'idk, session 7?'],
   ['I do not eat breakfast because breakfast is for nerds.', 'September 10th, 2022'],
 ];
 
