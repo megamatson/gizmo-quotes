@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gizmo-quotes/static/css/main.1d6be7a2.css",
-    "main.js": "/gizmo-quotes/static/js/main.ad567b34.js",
+    "main.js": "/gizmo-quotes/static/js/main.b18ecd4f.js",
     "static/js/787.f5bf77c0.chunk.js": "/gizmo-quotes/static/js/787.f5bf77c0.chunk.js",
     "index.html": "/gizmo-quotes/index.html",
     "main.1d6be7a2.css.map": "/gizmo-quotes/static/css/main.1d6be7a2.css.map",
-    "main.ad567b34.js.map": "/gizmo-quotes/static/js/main.ad567b34.js.map",
+    "main.b18ecd4f.js.map": "/gizmo-quotes/static/js/main.b18ecd4f.js.map",
     "787.f5bf77c0.chunk.js.map": "/gizmo-quotes/static/js/787.f5bf77c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d6be7a2.css",
-    "static/js/main.ad567b34.js"
+    "static/js/main.b18ecd4f.js"
   ]
 }
