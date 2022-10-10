@@ -11,7 +11,7 @@ const quotes: [string|React.ReactElement, string][] = [
   ],
   ['Th-th-th-tha-th-th-than-than-thank y-y-y-you, y-y-y-your M-m-m-m-m-maje-je-je-jesty.', 'Session 8'],
   ['I do not eat breakfast because breakfast is for nerds.', 'September 10th, 2022'],
-  ["It's Bodhin' time", 'October 8th, 2022']
+  ["It's Bodhin' time!", 'October 8th, 2022']
 ];
 
 function App() {
