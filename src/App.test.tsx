@@ -1,5 +1,7 @@
-import React from 'react';
-import { render, screen } from '@testing-library/react';
 import App from './App';
+import ReactDOM from 'react-dom';
 
-test.todo('renders learn react link');
+test('App renders', () => {
+  const div = document.createElement('div');
+  ReactDOM.render(<App/>, div);
+});
