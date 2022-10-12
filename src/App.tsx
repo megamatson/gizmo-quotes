@@ -24,7 +24,7 @@ function App() {
         </tr>
       </thead>
       <tbody>
-        {quotes.map(([quote, date]) => (<tr>
+        {quotes.map(([quote, date], i) => (<tr key={i}>
           <td>{quote}</td>
           <td>{date}</td>
         </tr>))}
