@@ -13,6 +13,7 @@ const quotes: [string|React.ReactElement, string][] = [
   ['I do not eat breakfast because breakfast is for nerds.', 'September 10th, 2022'],
   ["It's Bodhin' time!", 'October 8th, 2022'],
   ['Why is my vibrator vibrating?', 'October 15th, 2022'],
+  ['If you think that was bad, you should stand near Brain during taco night.', 'October 29th, 2022'],
 ];
 
 function App() {
