@@ -14,6 +14,7 @@ const quotes: [string|React.ReactElement, string][] = [
   ["It's Bodhin' time!", 'October 8th, 2022'],
   ['Why is my vibrator vibrating?', 'October 15th, 2022'],
   ['If you think that was bad, you should stand near Brain during taco night.', 'October 29th, 2022'],
+  ['Typical politician. Big cock, but no cum.', 'December 10th, 2022. Finishing quip against BBEG'],
 ];
 
 function App() {
